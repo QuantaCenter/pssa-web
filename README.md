@@ -1,5 +1,7 @@
 # pssa-web
 
+该项目为广外培训学时系统网页端，基于vue-cli构建，整体技术栈为vue2 + ts（脚本）
+
 ## Project setup
 ```
 yarn install
@@ -14,11 +16,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
